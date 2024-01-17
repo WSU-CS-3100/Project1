@@ -1,1 +1,1 @@
-# Project1
+# Project1 - Simulating dice rolls
