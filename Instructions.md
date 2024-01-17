@@ -32,9 +32,9 @@ Please upload a single file named project1.cpp to the dropbox. Do not zip, archi
 
 This project is worth 10 points, distributed as follows:
 
-| Task   | Points |
-| ----------- | ----------- |
-| Program compiles, runs, and produces correct output      | 4      |
-| Program produces different output each time it is run   | 1       |
-| Program makes correct use of an array to store roll total counts     | 2      |
+| Task                                                                                                                          | Points |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Program compiles, runs, and produces correct output                                                                           | 4      |
+| Program produces different output each time it is run                                                                         | 1      |
+| Program makes correct use of an array to store roll total counts                                                              | 2      |
 | Program conforms to coding standards (see CS 3100 Coding Standards in the Content/Handouts section of our class Pilot page)   | 3      |
