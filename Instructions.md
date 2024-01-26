@@ -1,9 +1,9 @@
 ## Table of Contents:
-* [Learning Objectives] (Instructions.md#learning-objectives)
-* [Overview] (Instructions.md#overview)
-* [Program Operation] (Instructions.md#program-operation)
-* [Example] (Instructions.md#example-of-program-operation)
-* [Grading] (Instructions.md#turn-in-and-grading)
+* [Learning Objectives](#learning-objectives)
+* [Overview](#overview)
+* [Program Operation](#program-operation)
+* [Example](#example-of-program-execution)
+* [Grading](#turn-in-and-grading)
 
 ---
 
