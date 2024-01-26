@@ -1,3 +1,12 @@
+## Table of Contents:
+* [Learning Objectives] (Instructions.md#learning-objectives)
+* [Overview] (Instructions.md#overview)
+* [Program Operation] (Instructions.md#program-operation)
+* [Example] (Instructions.md#example-of-program-operation)
+* [Grading] (Instructions.md#turn-in-and-grading)
+
+---
+
 ## Learning Objectives
 - Learn the VS-Code programming environment
 - Apply basic programming concepts in C++
